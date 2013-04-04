@@ -1,7 +1,7 @@
 // Start here
 //var apiKey = "Ao5Ew1XnxVey8Mh0jgfL32mbQN1pNLQoDv48u1r5BJrGsf8r0Bach7FYO5wTpbHl";  // My Bing API key. Please get your own at http://bingmapsportal.com/ and use that instead.
 
-var apiKey = "AjqLfgr5dNzp2kVrdzttXeg9xj1cE5JTS61rnR-oBujjpTGyABaw4pEg31CdrXyx"; //Katie's BIN API Key.
+var apiKey = "AjqLfgr5dNzp2kVrdzttXeg9xj1cE5JTS61rnR-oBujjpTGyABaw4pEg31CdrXyx"; //Katie's BING API Key.
 var map;
 var i_map;
 var areaMapStrategy;
